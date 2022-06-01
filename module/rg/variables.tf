@@ -1,10 +1,10 @@
-var name {
+variable name {
     type = string
     default = "name"
     description = "Name of Resource Group"
 }
 
-var location {
+variable location {
     type = string
     default = "westeurope"
     description = "Location"
